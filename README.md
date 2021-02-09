@@ -8,7 +8,7 @@ Apparrently, this is supposedly not required with Nuget anymore, but in case you
 
 You will also need to run Entity Framework Migrations `Update-Database` command per the article. The migration files are included in the repo, so you will NOT need to `Enable-Migrations` or run `Add-Migration Init`. 
 
-https://github.com/rubaiyat2009/E-QHSE/
+https://github.com/rubaiyat2009/E-QHSE.git
 
 ## Getting Started 
 After you've cloned the project, go ahead and restore the NuGet Packages from the solution or console. Then run the project. 
