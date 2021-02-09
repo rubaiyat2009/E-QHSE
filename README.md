@@ -16,4 +16,6 @@ You'll be able to log in and administer the groups and roles as well as users wi
 
     Username: test@test.com
     Password: Password1
-
+    
+   ## Technology Used
+   ASP .NET MVC, MVVM, Knockout JS, Entity Framework (Code First)
