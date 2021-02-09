@@ -19,3 +19,7 @@ You'll be able to log in and administer the groups and roles as well as users wi
     
    ## Technology Used
    ASP .NET MVC, MVVM, Knockout JS, Entity Framework (Code First)
+   
+   ## Template Used
+   Inspinia Admin template (licensed) used to reduce task and focus on business logic. To host this project needs to get new template licese from:
+   https://wrapbootstrap.com/theme/inspinia-responsive-admin-template-WB0R5L90S
